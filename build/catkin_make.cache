@@ -1,0 +1,2 @@
+sensor
+-DCATKIN_DEVEL_PREFIX=/home/eric/Desktop/panic/devel -DCMAKE_INSTALL_PREFIX=/home/eric/Desktop/panic/install -G Unix Makefiles

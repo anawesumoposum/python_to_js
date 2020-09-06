@@ -1,0 +1,8 @@
+prefix=/home/eric/Desktop/panic/install
+
+Name: sensor
+Description: Description of sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eric/Desktop/panic/install/lib 
+Requires: 
